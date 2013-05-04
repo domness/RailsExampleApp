@@ -3,7 +3,7 @@
 This is an example Rails app with a number of things set up including:
 
 - Rails
-- SQLite3
+- Postgres
 - HAML
 - Devise (with HAML views)
 - Twitter Bootstrap
