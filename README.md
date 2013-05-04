@@ -15,3 +15,5 @@ This is an example Rails app with a number of things set up including:
 - LESS/SASS (Up to you to decide)
 - Coffeescript
 - Jasmine (Javascript testing)
+- Timecop
+  - For usage and examples, see: https://github.com/travisjeffery/timecop
