@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
-gem 'sqlite3'
 gem "devise"
 gem "carrierwave"
 gem 'haml'
@@ -17,6 +16,7 @@ gem 'uglifier', '>= 1.0.3'
 gem 'activemodel'
 gem 'cocoon'
 gem 'airbrake'
+gem 'pg'
 
 group :assets do
   gem 'sprockets'
