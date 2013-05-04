@@ -1,1 +1,1 @@
-# Team Share
+# Example Rails App
